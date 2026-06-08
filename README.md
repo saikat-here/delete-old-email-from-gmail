@@ -43,19 +43,6 @@ This guide walks you through **everything from scratch**, even if you’ve never
 
 ---
 
-# ✅ What This Script Does
-
-- Cleans old unread emails automatically from:
-  - Promotions
-  - Updates
-  - Social
-  - Forums
-- Only deletes emails older than a certain number of days
-- Moves emails to **Trash (recoverable for 30 days)**
-- Can run automatically on a schedule
-
----
-
 # 🧩 PART 1 — Create the Script
 
 ## Step 1: Open Google Apps Script
