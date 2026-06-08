@@ -62,3 +62,30 @@ This guide walks you through **everything from scratch**, even if you’ve never
 5. Give your project a name.
 
 
+
+# ⏰ How to Schedule Gmail Cleanup Script (Step-by-Step)
+
+Follow these simple steps to automatically run your Gmail cleanup script at a fixed time.
+
+---
+
+## ✅ Step 1: Open Your Script
+
+1. Go to: https://script.google.com  
+2. Open your saved project (e.g., **Gmail Cleanup Automation**)
+
+---
+
+## ✅ Step 2: Open Triggers Page
+
+1. Look at the **left sidebar**
+2. Click the **⏰ Triggers icon**
+
+---
+
+## ✅ Step 3: Add a New Trigger
+
+1. Click the button:
+
+``
+
