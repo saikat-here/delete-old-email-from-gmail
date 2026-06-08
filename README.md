@@ -87,5 +87,4 @@ Follow these simple steps to automatically run your Gmail cleanup script at a fi
 
 1. Click the button:
 
-``
 
