@@ -35,7 +35,7 @@ const MAX_THREADS_PER_RUN  = 50;     // limit per execution (avoid timeout)
 const TRASH_BATCH          = 10;     // batch size for deletion
 const LOG_TO_SHEET         = true;   // enable logging
 const SHEET_ID             = 'YOUR_SHEET_ID';
-
+```
 
 # 📧 Gmail Cleanup Script — Step-by-Step Setup Guide (Beginner Friendly)
 
