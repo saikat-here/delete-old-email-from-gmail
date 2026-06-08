@@ -72,6 +72,6 @@ This guide walks you through **everything from scratch**, even if you’ve never
 2. Delete any existing code
 3. Paste your full script
 4. Click **💾 Save**
-5. Give your project a name like:
+5. Give your project a name.
 
 
